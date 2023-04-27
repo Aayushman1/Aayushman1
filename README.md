@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aayushman1
-- 👀 I’m interested in game programming
+- 👀 I’m interested in game programming and Web Development
 - 🌱 I’m currently learning how to publish a game online
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me aayushmansinha09@gmail.com
